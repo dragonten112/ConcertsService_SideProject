@@ -1,0 +1,8 @@
+transformers
+torch
+sentence-transformers
+scikit-learn
+numpy
+serpapi
+python-dotenv
+google-search-results
